@@ -1,0 +1,15 @@
+{
+  "name": "plain-api",
+  "version": "1.0.0",
+  "description": "A good project",
+  "scripts": {
+    "dev": "NODE_ENV=dev node main.js"
+  },
+  "dependencies": {
+    "config": "^1.21.0",
+    "koa": "^1.2.0",
+    "koa-router": "^5.4.0",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {}
+}
