@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A good project",
   "scripts": {
-    "dev": "NODE_ENV=dev node main.js"
+    "dev": "NODE_ENV=dev supervisor main.js"
   },
   "dependencies": {
     "config": "^1.21.0",
